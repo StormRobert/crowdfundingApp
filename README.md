@@ -14,3 +14,16 @@
 	> node deploy.js
 	Copy the contract deploy address and replace it in factory.js file.
  7. Replace your "infura end point link" in web3.js file.
+
+
+### `Steps`
+- **To install dependencies**
+ > npm install
+ - **To Compile the Contract**
+ > node compile.js
+ - **To test the Contract**
+ > npm run test
+ - **To deploy the Contract**
+ > node deploy.js
+ - **To run the application**
+ > npm run dev
